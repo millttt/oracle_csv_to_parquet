@@ -1,0 +1,4 @@
+fdk>=0.1.48
+oci 
+pandas
+pyarrow
